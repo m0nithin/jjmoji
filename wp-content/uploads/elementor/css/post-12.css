@@ -1,0 +1,856 @@
+.elementor-12 .elementor-element.elementor-element-2a66125:not(.elementor-motion-effects-element-type-background),
+.elementor-12 .elementor-element.elementor-element-2a66125>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://elongrok.com/wp-content/uploads/2023/11/bg1.webp");
+    background-position: center center;
+    background-repeat: repeat;
+    background-size: cover;
+}
+
+.elementor-12 .elementor-element.elementor-element-2a66125>.elementor-background-overlay {
+    background-color: #000000;
+    opacity: 0.5;
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-12 .elementor-element.elementor-element-2a66125 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    overflow: visible;
+}
+
+.elementor-12 .elementor-element.elementor-element-02f20bc .elementor-heading-title {
+    font-family: var( --e-global-typography-primary-font-family), Sans-serif;
+    font-weight: var( --e-global-typography-primary-font-weight);
+}
+
+.elementor-12 .elementor-element.elementor-element-46bf17f .elementor-heading-title {
+    color: var( --e-global-color-secondary);
+    font-family: "Roboto Slab", Sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.elementor-12 .elementor-element.elementor-element-15029c6 .elementor-button {
+    font-family: var( --e-global-typography-accent-font-family), Sans-serif;
+    font-size: var( --e-global-typography-accent-font-size);
+    font-weight: var( --e-global-typography-accent-font-weight);
+    line-height: var( --e-global-typography-accent-line-height);
+    fill: var( --e-global-color-text);
+    color: var( --e-global-color-text);
+    background-color: var( --e-global-color-secondary);
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #F5F6F7;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.elementor-12 .elementor-element.elementor-element-15029c6 .elementor-button:hover,
+.elementor-12 .elementor-element.elementor-element-15029c6 .elementor-button:focus {
+    color: #000000;
+    background-color: #FFFFFF;
+}
+
+.elementor-12 .elementor-element.elementor-element-15029c6 .elementor-button:hover svg,
+.elementor-12 .elementor-element.elementor-element-15029c6 .elementor-button:focus svg {
+    fill: #000000;
+}
+
+.elementor-12 .elementor-element.elementor-element-c322124 .ekit_double_button {
+    width: 100%;
+}
+
+.elementor-12 .elementor-element.elementor-element-c322124 .ekit-double-btn:not(:last-child) {
+    margin-right: 10px;
+}
+
+.elementor-12 .elementor-element.elementor-element-c322124 .ekit-double-btn.ekit-double-btn-one>i {
+    padding-right: 8px;
+}
+
+.elementor-12 .elementor-element.elementor-element-c322124 .ekit-double-btn.ekit-double-btn-one>svg {
+    margin-right: 8px;
+}
+
+.elementor-12 .elementor-element.elementor-element-c322124 .ekit-double-btn.ekit-double-btn-two>i {
+    padding-right: 8px;
+}
+
+.elementor-12 .elementor-element.elementor-element-c322124 .ekit-double-btn.ekit-double-btn-two>svg {
+    margin-right: 8px;
+}
+
+.elementor-12 .elementor-element.elementor-element-c322124 .ekit-double-btn.ekit-double-btn-one {
+    color: var( --e-global-color-text);
+    font-family: "Ubuntu", Sans-serif;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 20px;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: var( --e-global-color-text);
+    border-radius: 20px 20px 20px 20px;
+    background-color: #000000;
+    padding: 10px 10px 10px 10px;
+}
+
+.elementor-12 .elementor-element.elementor-element-c322124 .ekit-double-btn.ekit-double-btn-one svg path {
+    stroke: var( --e-global-color-text);
+    fill: var( --e-global-color-text);
+}
+
+.elementor-12 .elementor-element.elementor-element-c322124 .ekit-double-btn.ekit-double-btn-one:hover {
+    color: #000000;
+    background-color: var( --e-global-color-text);
+}
+
+.elementor-12 .elementor-element.elementor-element-c322124 .ekit-double-btn.ekit-double-btn-one:hover svg path {
+    stroke: #000000;
+    fill: #000000;
+}
+
+.elementor-12 .elementor-element.elementor-element-c322124 .ekit-double-btn.ekit-double-btn-two {
+    color: var( --e-global-color-text);
+    font-family: "Ubuntu", Sans-serif;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 20px;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: #FFFFFF;
+    border-radius: 20px 20px 20px 20px;
+    background-color: #000000;
+    padding: 10px 10px 10px 10px;
+}
+
+.elementor-12 .elementor-element.elementor-element-c322124 .ekit-double-btn.ekit-double-btn-two svg path {
+    stroke: var( --e-global-color-text);
+    fill: var( --e-global-color-text);
+}
+
+.elementor-12 .elementor-element.elementor-element-c322124 .ekit-double-btn.ekit-double-btn-two:hover {
+    color: #000000;
+    background-color: var( --e-global-color-text);
+}
+
+.elementor-12 .elementor-element.elementor-element-c322124 .ekit-double-btn.ekit-double-btn-two:hover svg path {
+    stroke: #000000;
+    fill: #000000;
+}
+
+.elementor-12 .elementor-element.elementor-element-2d0288a>.elementor-container {
+    min-height: 86px;
+}
+
+.elementor-12 .elementor-element.elementor-element-2d0288a:not(.elementor-motion-effects-element-type-background),
+.elementor-12 .elementor-element.elementor-element-2d0288a>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var( --e-global-color-text);
+}
+
+.elementor-12 .elementor-element.elementor-element-2d0288a {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin-top: -100px;
+    margin-bottom: 0px;
+    overflow: visible;
+}
+
+.elementor-12 .elementor-element.elementor-element-2d0288a>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-bc-flex-widget .elementor-12 .elementor-element.elementor-element-0a3d3b6.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-12 .elementor-element.elementor-element-0a3d3b6.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-12 .elementor-element.elementor-element-0a3d3b6.elementor-column>.elementor-widget-wrap {
+    justify-content: center;
+}
+
+.elementor-12 .elementor-element.elementor-element-3aa8ec3 {
+    text-align: center;
+}
+
+.elementor-12 .elementor-element.elementor-element-3aa8ec3 .elementor-heading-title {
+    color: #000000;
+    font-family: var( --e-global-typography-secondary-font-family), Sans-serif;
+    font-size: var( --e-global-typography-secondary-font-size);
+    font-weight: var( --e-global-typography-secondary-font-weight);
+}
+
+.elementor-bc-flex-widget .elementor-12 .elementor-element.elementor-element-1c27465.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-12 .elementor-element.elementor-element-1c27465.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-12 .elementor-element.elementor-element-1c27465.elementor-column>.elementor-widget-wrap {
+    justify-content: center;
+}
+
+.elementor-12 .elementor-element.elementor-element-0f50aad {
+    text-align: center;
+}
+
+.elementor-12 .elementor-element.elementor-element-0f50aad .elementor-heading-title {
+    color: #000000;
+    font-family: var( --e-global-typography-secondary-font-family), Sans-serif;
+    font-size: var( --e-global-typography-secondary-font-size);
+    font-weight: var( --e-global-typography-secondary-font-weight);
+}
+
+.elementor-12 .elementor-element.elementor-element-7038711:not(.elementor-motion-effects-element-type-background),
+.elementor-12 .elementor-element.elementor-element-7038711>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://elongrok.com/wp-content/uploads/2023/11/bg2.webp");
+    background-position: center center;
+    background-repeat: repeat;
+    background-size: cover;
+}
+
+.elementor-12 .elementor-element.elementor-element-7038711>.elementor-background-overlay {
+    background-color: #000000;
+    opacity: 0.5;
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-12 .elementor-element.elementor-element-7038711 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    overflow: visible;
+}
+
+.elementor-12 .elementor-element.elementor-element-26ebf32 .elementor-heading-title {
+    color: var( --e-global-color-secondary);
+    font-family: var( --e-global-typography-secondary-font-family), Sans-serif;
+    font-size: var( --e-global-typography-secondary-font-size);
+    font-weight: var( --e-global-typography-secondary-font-weight);
+}
+
+.elementor-12 .elementor-element.elementor-element-af67d70 {
+    color: var( --e-global-color-text);
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+    font-weight: var( --e-global-typography-text-font-weight);
+}
+
+.elementor-12 .elementor-element.elementor-element-cfbdb84>.elementor-container {
+    min-height: 86px;
+}
+
+.elementor-12 .elementor-element.elementor-element-cfbdb84:not(.elementor-motion-effects-element-type-background),
+.elementor-12 .elementor-element.elementor-element-cfbdb84>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var( --e-global-color-text);
+}
+
+.elementor-12 .elementor-element.elementor-element-cfbdb84 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    overflow: visible;
+}
+
+.elementor-12 .elementor-element.elementor-element-cfbdb84>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-bc-flex-widget .elementor-12 .elementor-element.elementor-element-83cb477.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-12 .elementor-element.elementor-element-83cb477.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-12 .elementor-element.elementor-element-83cb477.elementor-column>.elementor-widget-wrap {
+    justify-content: center;
+}
+
+.elementor-12 .elementor-element.elementor-element-bfd0790 {
+    text-align: center;
+}
+
+.elementor-12 .elementor-element.elementor-element-bfd0790 .elementor-heading-title {
+    color: #000000;
+    font-family: var( --e-global-typography-secondary-font-family), Sans-serif;
+    font-size: var( --e-global-typography-secondary-font-size);
+    font-weight: var( --e-global-typography-secondary-font-weight);
+}
+
+.elementor-bc-flex-widget .elementor-12 .elementor-element.elementor-element-fd2d243.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-12 .elementor-element.elementor-element-fd2d243.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-12 .elementor-element.elementor-element-fd2d243.elementor-column>.elementor-widget-wrap {
+    justify-content: center;
+}
+
+.elementor-12 .elementor-element.elementor-element-0630970 .elementor-button {
+    font-family: var( --e-global-typography-accent-font-family), Sans-serif;
+    font-size: var( --e-global-typography-accent-font-size);
+    font-weight: var( --e-global-typography-accent-font-weight);
+    line-height: var( --e-global-typography-accent-line-height);
+    fill: var( --e-global-color-text);
+    color: var( --e-global-color-text);
+    background-color: #000000;
+}
+
+.elementor-12 .elementor-element.elementor-element-0630970 .elementor-button:hover,
+.elementor-12 .elementor-element.elementor-element-0630970 .elementor-button:focus {
+    background-color: #1F1F1F;
+}
+
+.elementor-12 .elementor-element.elementor-element-f9355ad:not(.elementor-motion-effects-element-type-background),
+.elementor-12 .elementor-element.elementor-element-f9355ad>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://elongrok.com/wp-content/uploads/2023/11/bg3.webp");
+    background-position: center center;
+    background-size: cover;
+}
+
+.elementor-12 .elementor-element.elementor-element-f9355ad>.elementor-background-overlay {
+    background-color: #000000;
+    opacity: 0.5;
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-12 .elementor-element.elementor-element-f9355ad {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    overflow: visible;
+}
+
+.elementor-12 .elementor-element.elementor-element-5ec0820 .elementor-heading-title {
+    color: var( --e-global-color-secondary);
+    font-family: var( --e-global-typography-secondary-font-family), Sans-serif;
+    font-size: var( --e-global-typography-secondary-font-size);
+    font-weight: var( --e-global-typography-secondary-font-weight);
+}
+
+.elementor-12 .elementor-element.elementor-element-a7a882b {
+    color: var( --e-global-color-text);
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+    font-weight: var( --e-global-typography-text-font-weight);
+}
+
+.elementor-12 .elementor-element.elementor-element-3ae3c13>.elementor-container {
+    min-height: 86px;
+}
+
+.elementor-12 .elementor-element.elementor-element-3ae3c13:not(.elementor-motion-effects-element-type-background),
+.elementor-12 .elementor-element.elementor-element-3ae3c13>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var( --e-global-color-text);
+}
+
+.elementor-12 .elementor-element.elementor-element-3ae3c13 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    overflow: visible;
+}
+
+.elementor-12 .elementor-element.elementor-element-3ae3c13>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-bc-flex-widget .elementor-12 .elementor-element.elementor-element-e86887d.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-12 .elementor-element.elementor-element-e86887d.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-12 .elementor-element.elementor-element-e86887d.elementor-column>.elementor-widget-wrap {
+    justify-content: center;
+}
+
+.elementor-12 .elementor-element.elementor-element-7c38415 {
+    text-align: center;
+}
+
+.elementor-12 .elementor-element.elementor-element-7c38415 .elementor-heading-title {
+    color: #000000;
+    font-family: var( --e-global-typography-secondary-font-family), Sans-serif;
+    font-size: var( --e-global-typography-secondary-font-size);
+    font-weight: var( --e-global-typography-secondary-font-weight);
+}
+
+.elementor-bc-flex-widget .elementor-12 .elementor-element.elementor-element-12995d0.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-12 .elementor-element.elementor-element-12995d0.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-12 .elementor-element.elementor-element-12995d0.elementor-column>.elementor-widget-wrap {
+    justify-content: center;
+}
+
+.elementor-12 .elementor-element.elementor-element-1859fee .elementor-button {
+    font-family: var( --e-global-typography-accent-font-family), Sans-serif;
+    font-size: var( --e-global-typography-accent-font-size);
+    font-weight: var( --e-global-typography-accent-font-weight);
+    line-height: var( --e-global-typography-accent-line-height);
+    fill: var( --e-global-color-text);
+    color: var( --e-global-color-text);
+    background-color: #000000;
+}
+
+.elementor-12 .elementor-element.elementor-element-1859fee .elementor-button:hover,
+.elementor-12 .elementor-element.elementor-element-1859fee .elementor-button:focus {
+    background-color: #1F1F1F;
+}
+
+.elementor-12 .elementor-element.elementor-element-16bee0f:not(.elementor-motion-effects-element-type-background),
+.elementor-12 .elementor-element.elementor-element-16bee0f>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://elongrok.com/wp-content/uploads/2023/11/bg2.webp");
+    background-position: center center;
+    background-size: cover;
+}
+
+.elementor-12 .elementor-element.elementor-element-16bee0f>.elementor-background-overlay {
+    background-color: #000000;
+    opacity: 0.5;
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-12 .elementor-element.elementor-element-16bee0f {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    overflow: visible;
+}
+
+.elementor-12 .elementor-element.elementor-element-1491057 .elementor-heading-title {
+    color: var( --e-global-color-secondary);
+    font-family: var( --e-global-typography-secondary-font-family), Sans-serif;
+    font-size: var( --e-global-typography-secondary-font-size);
+    font-weight: var( --e-global-typography-secondary-font-weight);
+}
+
+.elementor-12 .elementor-element.elementor-element-b788423 {
+    color: var( --e-global-color-text);
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+    font-weight: var( --e-global-typography-text-font-weight);
+}
+
+.elementor-12 .elementor-element.elementor-element-bd42f1e>.elementor-container {
+    min-height: 86px;
+}
+
+.elementor-12 .elementor-element.elementor-element-bd42f1e:not(.elementor-motion-effects-element-type-background),
+.elementor-12 .elementor-element.elementor-element-bd42f1e>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var( --e-global-color-text);
+}
+
+.elementor-12 .elementor-element.elementor-element-bd42f1e {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    overflow: visible;
+}
+
+.elementor-12 .elementor-element.elementor-element-bd42f1e>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-bc-flex-widget .elementor-12 .elementor-element.elementor-element-f5b9aac.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-12 .elementor-element.elementor-element-f5b9aac.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-12 .elementor-element.elementor-element-f5b9aac.elementor-column>.elementor-widget-wrap {
+    justify-content: center;
+}
+
+.elementor-12 .elementor-element.elementor-element-cc035b0 {
+    text-align: center;
+}
+
+.elementor-12 .elementor-element.elementor-element-cc035b0 .elementor-heading-title {
+    color: #000000;
+    font-family: var( --e-global-typography-secondary-font-family), Sans-serif;
+    font-size: var( --e-global-typography-secondary-font-size);
+    font-weight: var( --e-global-typography-secondary-font-weight);
+}
+
+.elementor-bc-flex-widget .elementor-12 .elementor-element.elementor-element-dc7c79c.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-12 .elementor-element.elementor-element-dc7c79c.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-12 .elementor-element.elementor-element-dc7c79c.elementor-column>.elementor-widget-wrap {
+    justify-content: center;
+}
+
+.elementor-12 .elementor-element.elementor-element-f7dca7c .elementor-button {
+    font-family: var( --e-global-typography-accent-font-family), Sans-serif;
+    font-size: var( --e-global-typography-accent-font-size);
+    font-weight: var( --e-global-typography-accent-font-weight);
+    line-height: var( --e-global-typography-accent-line-height);
+    fill: var( --e-global-color-text);
+    color: var( --e-global-color-text);
+    background-color: #000000;
+}
+
+.elementor-12 .elementor-element.elementor-element-f7dca7c .elementor-button:hover,
+.elementor-12 .elementor-element.elementor-element-f7dca7c .elementor-button:focus {
+    background-color: #1F1F1F;
+}
+
+.elementor-12 .elementor-element.elementor-element-d9d12e7:not(.elementor-motion-effects-element-type-background),
+.elementor-12 .elementor-element.elementor-element-d9d12e7>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-image: url("https://elongrok.com/wp-content/uploads/2023/11/bg3.webp");
+    background-position: center center;
+    background-size: contain;
+}
+
+.elementor-12 .elementor-element.elementor-element-d9d12e7>.elementor-background-overlay {
+    background-color: #000000;
+    opacity: 0.5;
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-12 .elementor-element.elementor-element-d9d12e7 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    overflow: visible;
+}
+
+.elementor-12 .elementor-element.elementor-element-22f3672 .elementor-heading-title {
+    color: var( --e-global-color-secondary);
+    font-family: var( --e-global-typography-secondary-font-family), Sans-serif;
+    font-size: var( --e-global-typography-secondary-font-size);
+    font-weight: var( --e-global-typography-secondary-font-weight);
+}
+
+.elementor-12 .elementor-element.elementor-element-d3cfc93 {
+    color: var( --e-global-color-text);
+    font-family: var( --e-global-typography-text-font-family), Sans-serif;
+    font-weight: var( --e-global-typography-text-font-weight);
+}
+
+.elementor-12 .elementor-element.elementor-element-1455a2f>.elementor-container {
+    min-height: 86px;
+}
+
+.elementor-12 .elementor-element.elementor-element-1455a2f:not(.elementor-motion-effects-element-type-background),
+.elementor-12 .elementor-element.elementor-element-1455a2f>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var( --e-global-color-text);
+}
+
+.elementor-12 .elementor-element.elementor-element-1455a2f {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    overflow: visible;
+}
+
+.elementor-12 .elementor-element.elementor-element-1455a2f>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-bc-flex-widget .elementor-12 .elementor-element.elementor-element-55e62e7.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-12 .elementor-element.elementor-element-55e62e7.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-12 .elementor-element.elementor-element-55e62e7.elementor-column>.elementor-widget-wrap {
+    justify-content: center;
+}
+
+.elementor-12 .elementor-element.elementor-element-4a044c1 {
+    text-align: center;
+}
+
+.elementor-12 .elementor-element.elementor-element-4a044c1 .elementor-heading-title {
+    color: #000000;
+    font-family: var( --e-global-typography-secondary-font-family), Sans-serif;
+    font-size: var( --e-global-typography-secondary-font-size);
+    font-weight: var( --e-global-typography-secondary-font-weight);
+}
+
+.elementor-bc-flex-widget .elementor-12 .elementor-element.elementor-element-d9e41d8.elementor-column .elementor-widget-wrap {
+    align-items: center;
+}
+
+.elementor-12 .elementor-element.elementor-element-d9e41d8.elementor-column.elementor-element[data-element_type="column"]>.elementor-widget-wrap.elementor-element-populated {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-12 .elementor-element.elementor-element-d9e41d8.elementor-column>.elementor-widget-wrap {
+    justify-content: center;
+}
+
+.elementor-12 .elementor-element.elementor-element-860b1b0 .elementor-button {
+    font-family: var( --e-global-typography-accent-font-family), Sans-serif;
+    font-size: var( --e-global-typography-accent-font-size);
+    font-weight: var( --e-global-typography-accent-font-weight);
+    line-height: var( --e-global-typography-accent-line-height);
+    fill: var( --e-global-color-text);
+    color: var( --e-global-color-text);
+    background-color: #000000;
+}
+
+.elementor-12 .elementor-element.elementor-element-860b1b0 .elementor-button:hover,
+.elementor-12 .elementor-element.elementor-element-860b1b0 .elementor-button:focus {
+    background-color: #1F1F1F;
+}
+
+.elementor-12 .elementor-element.elementor-element-82e0575>.elementor-container {
+    min-height: 199px;
+}
+
+.elementor-12 .elementor-element.elementor-element-82e0575:not(.elementor-motion-effects-element-type-background),
+.elementor-12 .elementor-element.elementor-element-82e0575>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #000000;
+}
+
+.elementor-12 .elementor-element.elementor-element-82e0575 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin-top: 0px;
+    margin-bottom: -40px;
+    overflow: visible;
+}
+
+.elementor-12 .elementor-element.elementor-element-82e0575>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-12 .elementor-element.elementor-element-684514e {
+    text-align: justify;
+    color: var( --e-global-color-text);
+    font-family: "Ubuntu", Sans-serif;
+    font-weight: 400;
+}
+
+.elementor-12 .elementor-element.elementor-element-3fdacce {
+    text-align: right;
+}
+
+.elementor-12 .elementor-element.elementor-element-3fdacce .elementor-heading-title {
+    font-family: "Ubuntu Mono", Sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+:root {
+    --page-title-display: none;
+}
+
+@media(min-width:768px) {
+    .elementor-12 .elementor-element.elementor-element-0a3d3b6 {
+        width: 49.999%;
+    }
+    .elementor-12 .elementor-element.elementor-element-1c27465 {
+        width: 49.952%;
+    }
+    .elementor-12 .elementor-element.elementor-element-ffa34fe {
+        width: 40.019%;
+    }
+    .elementor-12 .elementor-element.elementor-element-dc7f05d {
+        width: 59.981%;
+    }
+    .elementor-12 .elementor-element.elementor-element-83cb477 {
+        width: 74.999%;
+    }
+    .elementor-12 .elementor-element.elementor-element-fd2d243 {
+        width: 24.952%;
+    }
+    .elementor-12 .elementor-element.elementor-element-a4b7aec {
+        width: 59.981%;
+    }
+    .elementor-12 .elementor-element.elementor-element-0e5befe {
+        width: 39.974%;
+    }
+    .elementor-12 .elementor-element.elementor-element-e86887d {
+        width: 74.999%;
+    }
+    .elementor-12 .elementor-element.elementor-element-12995d0 {
+        width: 24.952%;
+    }
+    .elementor-12 .elementor-element.elementor-element-f5b9aac {
+        width: 74.999%;
+    }
+    .elementor-12 .elementor-element.elementor-element-dc7c79c {
+        width: 24.952%;
+    }
+    .elementor-12 .elementor-element.elementor-element-55e62e7 {
+        width: 74.999%;
+    }
+    .elementor-12 .elementor-element.elementor-element-d9e41d8 {
+        width: 24.952%;
+    }
+}
+
+@media(max-width:1024px) {
+    .elementor-12 .elementor-element.elementor-element-15029c6 .elementor-button {
+        font-size: var( --e-global-typography-accent-font-size);
+        line-height: var( --e-global-typography-accent-line-height);
+    }
+    .elementor-12 .elementor-element.elementor-element-c322124 .ekit_double_button {
+        width: 80%;
+    }
+    .elementor-12 .elementor-element.elementor-element-3aa8ec3 .elementor-heading-title {
+        font-size: var( --e-global-typography-secondary-font-size);
+    }
+    .elementor-12 .elementor-element.elementor-element-0f50aad .elementor-heading-title {
+        font-size: var( --e-global-typography-secondary-font-size);
+    }
+    .elementor-12 .elementor-element.elementor-element-26ebf32 .elementor-heading-title {
+        font-size: var( --e-global-typography-secondary-font-size);
+    }
+    .elementor-12 .elementor-element.elementor-element-bfd0790 .elementor-heading-title {
+        font-size: var( --e-global-typography-secondary-font-size);
+    }
+    .elementor-12 .elementor-element.elementor-element-0630970 .elementor-button {
+        font-size: var( --e-global-typography-accent-font-size);
+        line-height: var( --e-global-typography-accent-line-height);
+    }
+    .elementor-12 .elementor-element.elementor-element-5ec0820 .elementor-heading-title {
+        font-size: var( --e-global-typography-secondary-font-size);
+    }
+    .elementor-12 .elementor-element.elementor-element-7c38415 .elementor-heading-title {
+        font-size: var( --e-global-typography-secondary-font-size);
+    }
+    .elementor-12 .elementor-element.elementor-element-1859fee .elementor-button {
+        font-size: var( --e-global-typography-accent-font-size);
+        line-height: var( --e-global-typography-accent-line-height);
+    }
+    .elementor-12 .elementor-element.elementor-element-1491057 .elementor-heading-title {
+        font-size: var( --e-global-typography-secondary-font-size);
+    }
+    .elementor-12 .elementor-element.elementor-element-cc035b0 .elementor-heading-title {
+        font-size: var( --e-global-typography-secondary-font-size);
+    }
+    .elementor-12 .elementor-element.elementor-element-f7dca7c .elementor-button {
+        font-size: var( --e-global-typography-accent-font-size);
+        line-height: var( --e-global-typography-accent-line-height);
+    }
+    .elementor-12 .elementor-element.elementor-element-22f3672 .elementor-heading-title {
+        font-size: var( --e-global-typography-secondary-font-size);
+    }
+    .elementor-12 .elementor-element.elementor-element-4a044c1 .elementor-heading-title {
+        font-size: var( --e-global-typography-secondary-font-size);
+    }
+    .elementor-12 .elementor-element.elementor-element-860b1b0 .elementor-button {
+        font-size: var( --e-global-typography-accent-font-size);
+        line-height: var( --e-global-typography-accent-line-height);
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-12 .elementor-element.elementor-element-2a66125 {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        padding: 10px 10px 10px 10px;
+    }
+    .elementor-12 .elementor-element.elementor-element-15029c6 .elementor-button {
+        font-size: var( --e-global-typography-accent-font-size);
+        line-height: var( --e-global-typography-accent-line-height);
+    }
+    .elementor-12 .elementor-element.elementor-element-15029c6>.elementor-widget-container {
+        margin: 0px 0px -15px 0px;
+    }
+    .elementor-12 .elementor-element.elementor-element-c322124 .ekit_double_button {
+        width: 100%;
+    }
+    .elementor-12 .elementor-element.elementor-element-2d0288a {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        padding: 10px 10px 10px 10px;
+    }
+    .elementor-12 .elementor-element.elementor-element-3aa8ec3 .elementor-heading-title {
+        font-size: var( --e-global-typography-secondary-font-size);
+    }
+    .elementor-12 .elementor-element.elementor-element-0f50aad .elementor-heading-title {
+        font-size: var( --e-global-typography-secondary-font-size);
+    }
+    .elementor-12 .elementor-element.elementor-element-7038711 {
+        padding: 100px 10px 100px 10px;
+    }
+    .elementor-12 .elementor-element.elementor-element-26ebf32 .elementor-heading-title {
+        font-size: var( --e-global-typography-secondary-font-size);
+    }
+    .elementor-12 .elementor-element.elementor-element-cfbdb84 {
+        padding: 10px 10px 10px 10px;
+    }
+    .elementor-12 .elementor-element.elementor-element-bfd0790 .elementor-heading-title {
+        font-size: var( --e-global-typography-secondary-font-size);
+    }
+    .elementor-12 .elementor-element.elementor-element-0630970 .elementor-button {
+        font-size: var( --e-global-typography-accent-font-size);
+        line-height: var( --e-global-typography-accent-line-height);
+    }
+    .elementor-12 .elementor-element.elementor-element-f9355ad {
+        padding: 100px 10px 100px 10px;
+    }
+    .elementor-12 .elementor-element.elementor-element-5ec0820 .elementor-heading-title {
+        font-size: var( --e-global-typography-secondary-font-size);
+    }
+    .elementor-12 .elementor-element.elementor-element-3ae3c13 {
+        padding: 10px 10px 10px 10px;
+    }
+    .elementor-12 .elementor-element.elementor-element-7c38415 .elementor-heading-title {
+        font-size: var( --e-global-typography-secondary-font-size);
+    }
+    .elementor-12 .elementor-element.elementor-element-1859fee .elementor-button {
+        font-size: var( --e-global-typography-accent-font-size);
+        line-height: var( --e-global-typography-accent-line-height);
+    }
+    .elementor-12 .elementor-element.elementor-element-16bee0f {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        padding: 100px 10px 100px 10px;
+    }
+    .elementor-12 .elementor-element.elementor-element-1491057 .elementor-heading-title {
+        font-size: var( --e-global-typography-secondary-font-size);
+    }
+    .elementor-12 .elementor-element.elementor-element-bd42f1e {
+        padding: 10px 10px 10px 10px;
+    }
+    .elementor-12 .elementor-element.elementor-element-cc035b0 .elementor-heading-title {
+        font-size: var( --e-global-typography-secondary-font-size);
+    }
+    .elementor-12 .elementor-element.elementor-element-f7dca7c .elementor-button {
+        font-size: var( --e-global-typography-accent-font-size);
+        line-height: var( --e-global-typography-accent-line-height);
+    }
+    .elementor-12 .elementor-element.elementor-element-d9d12e7 {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        padding: 100px 10px 100px 10px;
+    }
+    .elementor-12 .elementor-element.elementor-element-22f3672 .elementor-heading-title {
+        font-size: var( --e-global-typography-secondary-font-size);
+    }
+    .elementor-12 .elementor-element.elementor-element-1455a2f {
+        padding: 10px 10px 10px 10px;
+    }
+    .elementor-12 .elementor-element.elementor-element-4a044c1 .elementor-heading-title {
+        font-size: var( --e-global-typography-secondary-font-size);
+    }
+    .elementor-12 .elementor-element.elementor-element-860b1b0 .elementor-button {
+        font-size: var( --e-global-typography-accent-font-size);
+        line-height: var( --e-global-typography-accent-line-height);
+    }
+    .elementor-12 .elementor-element.elementor-element-684514e {
+        font-size: 14px;
+    }
+    .elementor-12 .elementor-element.elementor-element-684514e>.elementor-widget-container {
+        margin: 10px 10px 10px 10px;
+        padding: 10px 10px 10px 10px;
+    }
+}
